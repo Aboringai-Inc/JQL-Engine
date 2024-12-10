@@ -37,6 +37,13 @@
 
 4. **Safe Execution**:
    - Variables, functions, and modules are scoped within the JQL runtime to prevent unexpected behavior or conflicts.
+  
+## Run Scripts
+- Install python
+- run:
+```bash
+python run.py (what you filename is).jql
+```
 
 ## Example Script
 
